@@ -29,4 +29,4 @@ The "Medical Clinic" project is a web application created in Oracle Apex, design
 ![image](https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/505e0bc3-dc38-41b8-a38b-a2d099363957)
 
 
-![alt-text-1]([image1.png](https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/fc0bb435-7114-44c7-9d90-d00938b8636d)https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/fc0bb435-7114-44c7-9d90-d00938b8636d "title-1") ![alt-text-2]([image2.png](https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/2fbfdbfb-5578-44d0-a07a-40b07cf61590)https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/2fbfdbfb-5578-44d0-a07a-40b07cf61590 "title-2")
+![alt-text-1](https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/fc0bb435-7114-44c7-9d90-d00938b8636d "title-1") ![alt-text-2](https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/2fbfdbfb-5578-44d0-a07a-40b07cf61590 "title-2")
