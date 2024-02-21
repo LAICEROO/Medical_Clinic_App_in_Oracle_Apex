@@ -28,19 +28,4 @@ The "Medical Clinic" project is a web application created in Oracle Apex, design
 ![image](https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/c93db210-cb6b-476e-994b-b780870cfd98)
 ![image](https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/505e0bc3-dc38-41b8-a38b-a2d099363957)
 
-<table>
-  <tr>
-    <td>Home Page</td>
-     <td>Employee Panel</td>
-     <td>Patient Panel</td>
-     <td>Admin Panel</td>
-     <td>Nurse Panel</td>
-  </tr>
-  <tr>
-    <td><img src="(https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/fc0bb435-7114-44c7-9d90-d00938b8636d)" width=270 height=480></td>
-    <td><img src="https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/2fbfdbfb-5578-44d0-a07a-40b07cf61590" width=270 height=480></td>
-    <td><img src="https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/d3070949-d232-4ad2-9602-ee416e61b2e4" width=270 height=480></td>
-    <td><img src="https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/c93db210-cb6b-476e-994b-b780870cfd98" width=270 height=480></td>
-    <td><img src="https://github.com/LAICEROO/Medical_Clinic_App_in_Oracle_Apex/assets/93771973/c93db210-cb6b-476e-994b-b780870cfd98" width=270 height=480></td>
-  </tr>
- </table>
+
